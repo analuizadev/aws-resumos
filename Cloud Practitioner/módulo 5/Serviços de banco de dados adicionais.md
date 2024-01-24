@@ -1,0 +1,18 @@
+
+- *Amazon DocumentDB :*
+	- serviço de banco de dados de documentos compatível com cargas de trabalho do MongoDB;
+- *Amazon Neptune :*
+	- serviço de banco de dados de grafo;
+	- pode usar para criar e executar aplicações que funcionam com conjuntos de dados altamente conectados, como mecanismo de recomendação, detecção de fraude e grafos de conhecimento;
+- *Amazon Quantum Ledger Database (Amazon QLDB) :*
+	- serviço de banco de dados ledger;
+	- pode usar para ver um histórico completo de todas as alterações feitas nos dados da aplicação;
+- *Amazon Managed Blockchain :*
+	- serviço para criar e gerenciar redes de blockchain com frameworks de código aberto;
+	- blockchain é um sistema de registro distribuído que permite que várias partes executem transações e compartilhem dados sem uma autoridade central;
+- *Amazon ElastiCache :*
+	- serviço que adiciona camadas de caches sobre bancos de dados para ajudar a melhorar os tempos de leitura de solicitações comuns;
+	- é compatível com dois tipos de armazenamentos de dados: Redis e Memcached;
+- *Amazon DynamoDB Accelerator :*
+	- é um cache em memória do DynamoDB;
+	- ajuda a melhorar os tempos de resposta de milissegundos para microssegundos;

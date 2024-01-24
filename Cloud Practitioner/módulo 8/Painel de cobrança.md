@@ -1,0 +1,11 @@
+
+- use o painel *faturamento e gerenciamento de custos* da AWS para:
+	- pagar sua fatura da AWS;
+	- monitorar seu uso;
+	- analisar e controlar seus custos;
+- compare o saldo atual do mês acumulado com o mês anterior e obtenha uma previsão do próximo mês com base no uso atual;
+- visualize os gatos do mês acumulado por serviço;
+- visualize o uso do nível gratuito por serviço;
+- acesse o Cost Explorer e crie orçamentos;
+- adquira e gerencie o Saving Plans;
+- Publique AWS relatórios de uso e custo;
